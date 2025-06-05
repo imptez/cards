@@ -1,0 +1,4 @@
+package com.info.accounts.service;
+
+public interface IAccountsService {
+}
